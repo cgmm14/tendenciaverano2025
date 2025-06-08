@@ -62,7 +62,7 @@
     <ul>
       <li>Camisas y pantalones de lino en colores tierra y pastel. Ideales para el calor, combinan elegancia y frescura.</li>
       <img src="https://images.pexels.com/photos/17113368/pexels-photo-17113368/free-photo-of-hombre-verano-tejanos-pantalones-tejanos.jpeg" alt="Camisa de lino">
-      <img src="https://media.istockphoto.com/id/986740432/es/foto/imagen-recortada-de-modelo-masculino-en-pantal%C3%B3n-de-lino-y-sandalias-aislados-sobre-fondo-gris.jpg?s=1024x1024&w=is&k=20&c=qrR2qbfvUfuh7V5V-qTNJ8qWh1mRvT8Sl3kpqklT1cU=" alt="Pantalones de lino">
+      <img src="https://media.istockphoto.com/id/986740432/es/foto/imagen-recortada-de-modelo-masculino-en-pantal%C3%B3n-de-lino-y-sandalias-aislados-sobre-fondo-gris.jpg?s=1024x1024&w=is&k=20&c=qrR2qbfvUfuh7V5V-qTNJ8qWh1mRvT8Sl3kpqklT1cU=" alt="Pantalones de lino"> 
 
       <li>Pantalones cargo de corte ancho. Vuelven con fuerza por su practicidad y estilo urbano.</li>
       <li>Estilo preppy actualizado con polos de rayas, mocasines y pantalones chinos en tonos claros.</li>
