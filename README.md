@@ -1,5 +1,5 @@
 
-<html>
+<html> 
 <head>
   <meta charset="utf-8">
   <title>Tendencias de Moda Verano 2025</title>
