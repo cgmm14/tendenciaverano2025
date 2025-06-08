@@ -182,7 +182,7 @@
     <img src="https://images.pexels.com/photos/54265/bikini-two-piece-swimwear-women-two-parter-54265.jpeg?auto=compress&cs=tinysrgb&w=800*" alt="Look 4">
     <img src="https://images.pexels.com/photos/19478498/pexels-photo-19478498/free-photo-of-moda-mujer-modelo-maqueta.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Look 5">
 <iframe width="560" height="315" 
-  src="https://youtu.be/ZXgO9pYSPAY" 
+  src="https://www.youtube.com/embed/ZXgO9pYSPAY" 
   title="Video pasarela ralph laurent" 
   frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
