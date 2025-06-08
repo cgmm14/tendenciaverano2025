@@ -171,7 +171,7 @@
     <img src="https://media.istockphoto.com/id/1347727259/es/foto/juego-de-pendientes-con-piedras-preciosas-de-colores.jpg?b=1&s=612x612&w=0&k=20&c=uF0ZjuWAsP7iPfvOjveFBZK_oWC8PB9BQH0_pBboa_Q=" alt="Look 1">
 
     </ol>
-  </section>
+  </section> 
 
   <section id="galeria">
     <h2>Galería de Inspiración</h2>
