@@ -50,7 +50,7 @@
 
   <section id="introduccion">
     <h1 align="center">Tendencias de Moda - Verano 2025</h1>
-    <h5 align="right">CGM</h5>
+    <h5 style="text-align: right;">CGM</h5>
 
     <p align="center">Bienvenidos a nuestra página web sobre las tendencias de moda para el verano 2025. A lo largo de este proyecto, analizaremos los estilos, prendas, colores y accesorios que marcarán la temporada estival, tanto para hombres como para mujeres. Además, ofreceremos una galería de inspiración visual y una bibliografía con las fuentes utilizadas. La moda es una forma de expresión y cada tendencia refleja el espíritu de su época. En 2025, la sostenibilidad, la comodidad y la personalidad se imponen como pilares básicos del estilo.</p>
   </section>
@@ -181,7 +181,8 @@
     <img src="https://images.pexels.com/photos/54265/bikini-two-piece-swimwear-women-two-parter-54265.jpeg?auto=compress&cs=tinysrgb&w=800*" alt="Look 4">
     <img src="https://images.pexels.com/photos/19478498/pexels-photo-19478498/free-photo-of-moda-mujer-modelo-maqueta.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Look 5">
   <iframe width="560" height="315" 
-  src="https://www.youtube.com/watch?v=hKB1diiMYqk" 
+  src="https://www.youtube.com/embed/hKB1diiMYqk
+" 
   title="Video pasarela ralph laurent" 
   frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
