@@ -1,0 +1,1 @@
+# tendenciaverano2025
