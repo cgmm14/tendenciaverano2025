@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
     body {
-      font-family: Arial;
+      font-family: Arial; 
       background-color: #fff0f5;
       color: #333;
       margin: 0;
